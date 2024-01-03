@@ -1,1 +1,1 @@
-# python
+# python fundamantals code snipets 
